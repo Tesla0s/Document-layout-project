@@ -22,15 +22,15 @@
 6. Создание приложения для более удобного использования полученной модели
 
 ## Навигация
-- [app](https://github.com) - код сервиса
+- [app](https://github.com/Tesla0s/Document-layout-project/tree/main/app) - код сервиса
 
-- [data](https://github.com) - примеры сгенерированных данных
+- [data](https://github.com/Tesla0s/Document-layout-project/tree/main/data) - примеры сгенерированных данных
 
-- [notebooks](https://github.com) - ноутбуки, использовавшиеся для обучения моделей
+- [notebooks](https://github.com/Tesla0s/Document-layout-project/tree/main/notebooks) - ноутбуки, использовавшиеся для обучения моделей
 
-- [scripts](https://github.com) - скрипты для генерации датасета и инференса на тестовых данных
+- [scripts](https://github.com/Tesla0s/Document-layout-project/tree/main/scripts) - скрипты для генерации датасета и инференса на тестовых данных
 
-- [test_from_telegram](https://github.com) - обработанные изображения и разметка тестового файла, полученного в телеграме
+- [test_from_telegram](https://github.com/Tesla0s/Document-layout-project/tree/main/test_from_telegram) - обработанные изображения и разметка тестового файла, полученного в телеграме
 
-- [metrics_on_test_datasets](https://github.com) - результаты работы модели на тестовых датасетах нашей и других групп
+- [metrics_on_test_datasets](https://github.com/Tesla0s/Document-layout-project/tree/main/metrics_on_test_datasets) - результаты работы модели на тестовых датасетах нашей и других групп
 
